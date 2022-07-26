@@ -46,7 +46,7 @@ int main(){
 3. lower_bound 會找出不小於 target 的第一筆符合資料（不一定剛好是 target）
 4. 在使用之前請確定資料已經確實排序完成
 5. 所需搜尋的資料必須可以互相比較大小（具備可比性），否則必須自行另外定義大小關係（使用`cmp`函式）
-6. `#include<algorithm`
+6. `#include<algorithm>`
 7. * 此外，還有 upper_bound 函式，會找出大於 target 的第一筆符合資料，其使用方法與 lower_bound 雷同
 
 ### lower_bound 函式使用方式
