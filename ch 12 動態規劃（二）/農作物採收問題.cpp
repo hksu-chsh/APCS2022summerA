@@ -1,7 +1,7 @@
 #include<bits/stdc++.h>
 using namespace std;
 
-int n, dp[25][25], mx;
+int n, dp[101][101], mx;
 
 int main() {
     cin >> n;
